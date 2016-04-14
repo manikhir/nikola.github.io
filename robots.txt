@@ -1,0 +1,4 @@
+Sitemap: https://postcards.com/sitemapindex.xml
+
+User-Agent: *
+Host: postcards.com
